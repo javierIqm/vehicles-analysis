@@ -40,5 +40,6 @@ Si deseas ejecutar la aplicación en tu máquina local, sigue estos pasos:
     streamlit run app.py
 
 
+## Enlace a la aplicación en Render
 Puedes acceder a la aplicación web desplegada en Render a través del siguiente enlace:
-http://34.213.214.55:8501
+[https://vehicles-analysis-1ynd.onrender.com](https://vehicles-analysis-1ynd.onrender.com)
